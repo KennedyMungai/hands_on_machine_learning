@@ -7,9 +7,11 @@
 	"settings": {
 		"cSpell.words": [
 			"cmap",
+			"colorbar",
 			"figsize",
 			"iloc",
 			"Scikit",
+			"sharex",
 			"strat",
 			"xlabel",
 			"ylabel"
