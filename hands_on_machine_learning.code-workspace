@@ -8,6 +8,7 @@
 		"cSpell.words": [
 			"cmap",
 			"colorbar",
+			"dropna",
 			"dtypes",
 			"figsize",
 			"iloc",
