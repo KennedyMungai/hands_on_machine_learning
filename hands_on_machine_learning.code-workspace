@@ -11,6 +11,7 @@
 			"dropna",
 			"dtypes",
 			"figsize",
+			"fillna",
 			"iloc",
 			"Pearsons",
 			"Scikit",
