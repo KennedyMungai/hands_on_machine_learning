@@ -6,7 +6,9 @@
 	],
 	"settings": {
 		"cSpell.words": [
-			"figsize"
+			"figsize",
+			"iloc",
+			"Scikit"
 		]
 	}
 }
