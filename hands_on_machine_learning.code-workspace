@@ -8,7 +8,9 @@
 		"cSpell.words": [
 			"figsize",
 			"iloc",
-			"Scikit"
+			"Scikit",
+			"xlabel",
+			"ylabel"
 		]
 	}
 }
