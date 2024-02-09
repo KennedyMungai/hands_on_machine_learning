@@ -9,6 +9,7 @@
 			"cmap",
 			"colorbar",
 			"dropna",
+			"dtype",
 			"dtypes",
 			"figsize",
 			"fillna",
