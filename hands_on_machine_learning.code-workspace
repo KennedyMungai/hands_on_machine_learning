@@ -14,6 +14,7 @@
 			"figsize",
 			"fillna",
 			"iloc",
+			"kmeans",
 			"Pearsons",
 			"Scikit",
 			"sharex",
