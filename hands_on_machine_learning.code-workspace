@@ -25,6 +25,7 @@
 			"MNIST",
 			"openml",
 			"Pearsons",
+			"probas",
 			"Scikit",
 			"sharex",
 			"simil",
