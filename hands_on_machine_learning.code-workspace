@@ -20,6 +20,7 @@
 			"imshow",
 			"joblib",
 			"kmeans",
+			"linewidth",
 			"MNIST",
 			"openml",
 			"Pearsons",
