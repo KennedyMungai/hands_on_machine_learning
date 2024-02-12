@@ -17,6 +17,7 @@
 			"fillna",
 			"iloc",
 			"importances",
+			"imshow",
 			"joblib",
 			"kmeans",
 			"MNIST",
